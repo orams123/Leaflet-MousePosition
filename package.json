@@ -1,0 +1,27 @@
+{
+  "name": "leaflet-mouse-position",
+  "version": "1.3.0",
+  "description": "A simple leaflet plugin to measure true bearing and distance between clicked points.",
+  "main": "src/L.Control.MousePosition.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orams123/Leaflet-MousePosition.git"
+  },
+  "keywords": [
+    "leaflet",
+    "measure"
+  ],
+  "author": "Göker Tanrısertanrisever/)",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "httpssues"
+  },
+  "homepage": "https://github.com/orams123//Leaflet-MousePosition#readme",
+  "devDependencies": {},
+  "peerDependencies": {
+    "leaflet": "^1.0.0"
+  },
+  "dependencies": {}
+}
